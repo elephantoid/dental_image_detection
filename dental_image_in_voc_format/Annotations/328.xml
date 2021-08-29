@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cured</folder>
+	<filename>328.jpg</filename>
+	<path>dental_image_in_voc_format/JPEGImages/328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>458</width>
+		<height>408</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cured</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>186</ymin>
+			<xmax>237</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

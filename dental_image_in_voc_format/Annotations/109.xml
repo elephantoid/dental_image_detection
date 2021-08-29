@@ -1,0 +1,26 @@
+<annotation>
+	<folder>decayed</folder>
+	<filename>109.jpg</filename>
+	<path>dental_image_in_voc_format/JPEGImages/109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>87</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>decayed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>40</ymin>
+			<xmax>57</xmax>
+			<ymax>60</ymax>
+		</bndbox>
+	</object>
+</annotation>
